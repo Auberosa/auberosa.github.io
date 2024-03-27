@@ -1,6 +1,6 @@
 # Image Credits
 
-All images courtesy of Unsplash (https://unsplash.com).
+All images in images/test/ courtesy of Unsplash (https://unsplash.com).
 
 - Martin Grincevschi (https://unsplash.com/photos/uCnOENPOBxM)
 - Pete Bellis (https://unsplash.com/photos/eDVQwVMLMgU)
